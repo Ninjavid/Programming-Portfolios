@@ -3,7 +3,7 @@
 ## Processing Projects
 
 ### Calculator
-OOP Graphical Clculator Built in Processing 4
+OOP Graphical Calculator Built in Processing 4
 
 ![Running calculator]()
 
